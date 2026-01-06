@@ -1,2 +1,2 @@
 # .github
-About Organon Protocol.
+About MCP3.
